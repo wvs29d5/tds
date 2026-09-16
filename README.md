@@ -14,7 +14,7 @@ Then visit http://localhost:8000/
 
 ## Features
 
-- **Campaign**: 5 stages (Greenfield Plains → Apex Citadel) with bosses, plus **Endless Mode** on any of the 5 maps
+- **Campaign**: 8 stages (Greenfield Plains → Cyber Ruins) with bosses, plus **Endless Mode** on any of the 8 maps
 - **12 tower types**: Archer, Cannon, Freezer, Sniper, Farm (gold generation), Defender (5-tier flagship), Barracks (blocking infantry), Necromancer (skeletons + Death Nova), Laser, Tesla (chain lightning), Missile, DJ Station (buff aura)
 - **Loadout system**: pick up to 6 towers per run; upgrade and sell in the field
 - **5 difficulties**: Easy → Insane, plus Sandbox
